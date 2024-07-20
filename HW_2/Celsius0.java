@@ -6,7 +6,7 @@ public class Celsius0 {
         // Convert Fahrenheit to Celsius
         float celsius = (fahrenheit - 32) * 5 / 9;
 
-        // Display the result
-        System.out.println(fahrenheit + " Fahrenheit is equal to " + celsius + " Celsius.");
+        // Display the result......
+        System.out.println(fahrenheit + " Fahrenheit is equal to " + celsius + " Celsius...");
     }
 }
